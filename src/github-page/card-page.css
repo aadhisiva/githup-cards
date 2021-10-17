@@ -1,0 +1,22 @@
+.heading {
+    font-size: 30px;
+    font-weight: bold;
+}
+.github-profile{
+    font-size: medium;
+    font-weight: bold;
+    margin: 1rem;
+}
+.info{
+    display: inline-block;
+    margin-left: 20px;
+}
+.form{
+    margin: auto;
+    border: medium;
+    border-style: groove;
+    height: 60px;
+   margin-top: 20px;
+   display: inline-block;
+
+}
